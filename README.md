@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kratipatidar
 - 👀 I’m interested in Machine Learning, Data Visualization and Data Engineering.
-- 🌱 I’m currently learning Neural Network Modeling and Production Platforms.
+- 🌱 I’m currently working on Neural Network Modeling and Production Platforms.
 - 💞️ I’m looking to collaborate on all Data Science Projects!
 - 📫 You can reach me through my email: kratipatidar1996@gmail.com
 
